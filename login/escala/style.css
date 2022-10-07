@@ -1,0 +1,31 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+h2 {
+    
+    color: white;
+    text-align: center;
+     font-family: Arial, Helvetica, sans-serif;
+    background: #490f79;
+    height: 5vh;
+    margin-bottom: auto;
+    padding-top: 5%;
+    padding-bottom: 9%;
+   
+    
+   
+    
+}
+
+h3{
+    color: white;
+    text-align: center;
+     font-family: Arial, Helvetica, sans-serif;
+    background: #050108;
+    height: 5vh;
+    margin-bottom: auto;
+    padding-top: 5%;
+    padding-bottom: 9%;
+     
+}

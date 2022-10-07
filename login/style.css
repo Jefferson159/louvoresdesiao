@@ -1,0 +1,96 @@
+
+
+*{
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Roboto', sans-serif;
+    position: relative;
+    background-color: black;
+   
+    
+   
+
+    
+}
+
+h1{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 150%;
+}
+
+p{
+    color: white;
+    font-size: 100%;
+}
+.field grid{
+    display: flex;
+    color: white;
+}
+
+/*--------------------munupg01----------------------*/
+#menu-hori {
+    background-color: black;
+}
+#menu-hori ul {
+    list-style: none;
+    padding: 0;
+    background-color: black;
+    max-width: 800px;
+}
+
+#menu-hori ul li{
+    display: inline-block;
+   
+}
+
+#menu-hori ul li a{
+   
+    color: white;
+    padding: 20px;
+    text-decoration: none;
+    display: inline-block;
+    transition-duration: .6s;
+}
+
+#menu-hori ul li a:hover {
+   background-color: rgb(15, 65, 141);
+}
+
+#menu-hori ul li:last-child {
+    float: right;
+    background-color: rgb(8, 145, 138);
+}
+.imgpri{
+
+   display: block;
+ justify-items: auto;
+   
+    
+}
+.form-control mr-sm-2{
+    margin-bottom: auto;
+}
+
+
+   
+
+
+.title {
+    color:black;
+}
+
+.register {
+    margin-top: 8%;
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+      
+}
+
+
+
+/*--------------------munupg01----------------------*/
