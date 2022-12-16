@@ -247,6 +247,11 @@ h5{
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif  ;
 }
 
+h6{
+  font-size: 15px;
+  color:orange;
+}
+
 .contener{
    flex-direction: column;
   display: flex;
@@ -266,8 +271,9 @@ align-items: center;
 }
 
 .rodape{
-margin: 100px;
-width: 500px;
+height: 150px;
+margin: 200%;
+width: 100%;
  display: flex;
  align-items: center;
  justify-content: center;
@@ -290,12 +296,46 @@ margin-bottom: 1px;
 
 .texte{
   
-  display: flex;
+display: flex;
   align-items: center;
   justify-content: center;
   margin-left: auto;
   margin-right: auto;
+}
 
+header1 img {
+  width:161px;
+  height: 170px;
+  border-radius: 100%;
+  border: 5px solid rgb(64, 0, 128);
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  justify-content: center;
+  align-items: center;
+}
 
+.escala{
+
+    height: 10em;
+    display: flex;
+    align-items: center;
+    justify-content: center
+    margin-right auto;
 
 }
+
+#photo {
+display: block;
+align-items: center;
+margin-top: -10%;
+
+
+ 
+	
+  
+  
+
+}
+
+
