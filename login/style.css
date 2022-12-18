@@ -1,16 +1,8 @@
-
-
 *{
     margin-left: auto;
     margin-right: auto;
     font-family: 'Roboto', sans-serif;
     position: relative;
-   
-   
-    
-   
-
-    
 }
 
 h1{
@@ -71,10 +63,6 @@ p{
 .form-control mr-sm-2{
     margin-bottom: auto;
 }
-
-
-   
-
 
 .title {
     color:black;

@@ -5,10 +5,11 @@
 }
 
 a {
-  color: rgb(226, 222, 228);
+  color: rgb(0, 0, 0);
   text-decoration: none;
-  transition: 0.3s;
+  transition: 0.7s;
   font-family: "Times New Roman", Times, serif;
+  font-size: 15px;
 }
 
 a:hover {
@@ -19,6 +20,8 @@ a:hover {
   font-size: 24px;
   text-transform: uppercase;
   letter-spacing: 4px;
+  color: #000000;
+  font-family: Verdana, Geneva, Tahoma, sans-serif
 }
 
 nav {
@@ -26,7 +29,7 @@ nav {
   justify-content: space-around;
   align-items: center;
   font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
-  background: #003057;
+  background: orange;
   height: 6vh;
 }
 
@@ -199,7 +202,7 @@ img {
 
 .active,
 .dot:hover {
-  background-color: #091e2c;
+  background-color:#ecb31f;
 }
 
 /* Fading animation */
