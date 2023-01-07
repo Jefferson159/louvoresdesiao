@@ -333,11 +333,14 @@ display: block;
 align-items: center;
 margin-top: -10%;
 
-
+}
+.cpturaini{
+  width: 70%;
+  height: 50%;
+  margin-top: -6%;
+  margin-left: auto;
+  margin-right: auto;
  
-	
-  
-  
 
 }
 
